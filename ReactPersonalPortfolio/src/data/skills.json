@@ -1,0 +1,43 @@
+[
+    {
+        "title": "HTML",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "css",
+        "imageScr": "skills/html.png"   
+    },
+    {
+        "title": "react",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "Node",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "PHP",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "Lavarel",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "Java Spring",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "AWS",
+        "imageScr": "skills/html.png"
+    },
+    {
+        "title": "Azure",
+        "imageScr": "skills/html.png"
+    }
+   
+]

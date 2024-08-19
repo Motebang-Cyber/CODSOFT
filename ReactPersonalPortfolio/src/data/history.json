@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "software engineer",
+        "organisation" : "ALX",
+        "startDate" : "Feb, 2023",
+        "endDate" : "April, 2023",
+        "experiences" : "Introduction to GitHub, Learnt C programming Langauge, Learnt python and Javascript SE6+",
+        "imageSrc" : "history/google.png"
+    },
+    {
+        "role" : "Cloud developer trainee",
+        "organisation" : "Mecer Inter-Ed",
+        "startDate" : "Jul, 2023",
+        "endDate" : "Nov, 2023",
+        "experiences" : "I learnt a lot including Microsoft Azure, Azure DevOps services, AWS, gitHub, mysql, ASP.NET, .NetFramework, Microsoft power BI, Power Platform and Python",
+        "imageSrc" : "history/google.png"
+    },
+    {
+        "role" : "iot Developer intern",
+        "organisation" : "Webotec",
+        "startDate" : "Jan, 2024",
+        "endDate" : "Currently",
+        "experiences" : "I am responsible for creating robust optimized dashboards from Software AG cumulocity iot using streaming analytics, I then developed expore to skills including webmethods, Java microservices, Mqtt, Postman Api, Rest Api, SOAP, Cumulocity iot and many more",
+        "imageSrc" : "history/google.png"
+    }
+]
